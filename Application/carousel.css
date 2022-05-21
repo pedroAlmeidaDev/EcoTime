@@ -27,6 +27,10 @@ body {
   height: 32rem;
 }
 
+.bd-placeholder-img{
+  background-image: url(../Imagens/biodiversidade.png);
+}
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
