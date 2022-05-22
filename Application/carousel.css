@@ -3,7 +3,7 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  background-image: url(../Imagens/imagemBody.jpg);
+  background-color: MediumSeaGreen;
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: white;
@@ -37,6 +37,14 @@ body {
   color: black;
 }
 
+.container .row p{
+    text-align: justify;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.container .row h2{
+  font-family:  Comic Sans MS, Comic Sans, cursive;
+}
 
 
 
