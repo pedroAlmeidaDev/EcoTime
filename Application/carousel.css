@@ -3,9 +3,10 @@
 /* Padding below the footer and lighter body text */
 
 body {
+  background-image: url(../Imagens/imagemBody.jpg);
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color: white;
 }
 
 
@@ -20,6 +21,7 @@ body {
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
+  
 }
 
 /* Declare heights because of positioning of img element */
@@ -27,9 +29,16 @@ body {
   height: 32rem;
 }
 
-.bd-placeholder-img{
-  background-image: url(../Imagens/biodiversidade.png);
+.container p{
+  color: black;
 }
+
+.container h1{
+  color: black;
+}
+
+
+
 
 
 /* MARKETING CONTENT
