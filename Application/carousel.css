@@ -6,8 +6,24 @@ body {
   background-color: MediumSeaGreen;
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: white;
 }
+
+header{
+  background-color: white;
+}
+
+footer a{
+  color: black;
+}
+
+footer img{
+  float: left;
+  display: flex;
+  padding-left: 40px;
+  margin-bottom: 40px;
+  border-radius: 40px;
+}
+
 
 
 /* CUSTOMIZE THE CAROUSEL
