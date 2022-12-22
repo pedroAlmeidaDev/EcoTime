@@ -10,12 +10,4 @@
 <img align ="center" alt="html" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%;"> <img align="center" alt="html" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;"> <img align="center" alt="html" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="max-width:100%;"> <img align="center" alt="html" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="max-width:100%;">
 <hr>
 <h1>👷 Como rodar<h1>
-<h3><li>Clonar o repositório.
-
-git clone https://github.com/pedroAlmeidaDev/EcoTime.git
-
-<li>Entrar no editor de código VisualStudioCode.
-
-<li>Executar o arquivo HTML.
-
-<li>Feito isso, abra o seu navegador e acesse http://localhost:5500/ ou em uma porta de sua preferência.<h3>
+<h3><li>Acesse o link: https://pedroalmeidadev.github.io/EcoTime/<h3>
